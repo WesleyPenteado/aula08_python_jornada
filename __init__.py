@@ -1,0 +1,1 @@
+#arquivo criado e utilizado para importar funções entre um arquivo e outro
